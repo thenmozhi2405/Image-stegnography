@@ -1,0 +1,46 @@
+    {
+        "Proakis": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/patient1_to_hide.png",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/patient1_to_send.png"
+        },
+        "Simon": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/cake_20.jpg", 
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/ranj_mass.jpg"
+        },
+        "Shreya": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/patient3_to_hide.png",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/patient3_to_send.png"
+        },
+        "Vishal": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/mushaireb_qa.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/3.7_MB.jpg"
+        },
+        "Choco": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/team_pic.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/please_work.jpg"
+        },
+        "1": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/11.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/1111.jpg"
+        },
+        "2": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/22.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/2222.jpg"
+        },
+        "3": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/33.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/3333.jpg"
+        },
+        "4": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/44.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/4444.jpg"
+        },
+        "5": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/4444.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/5555.jpg"
+        },
+        "6": {
+            "Image_to_Hide": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/66.jpg",
+            "Image_to_Send": "E:/OneDrive/Desktop/CLICK/Amrita/SEM 3/SP_Project/Photos/6666.jpg"
+        }
+    }
